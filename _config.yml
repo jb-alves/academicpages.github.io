@@ -91,7 +91,7 @@ author:
   dribbble         :
   flickr           :
   facebook         :
-  foursquare       :
+  medium           :
   github           : 
   google_plus      :
   keybase          :
@@ -110,7 +110,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  medium           : "@scholarlywiz"
+  medium           : "scholarlywiz"
 
 
 # Reading Files
